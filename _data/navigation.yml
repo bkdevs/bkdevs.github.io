@@ -1,9 +1,9 @@
-- name: Pricing
-  link: /pricing/
+- name: Products
+  link: /blog/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Privacy Policy
+  link: /privacy-policy/
   new_window: false
   highlight: false
 - name: About
@@ -14,11 +14,3 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
